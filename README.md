@@ -69,11 +69,7 @@ $ns at 0.0 "$n1 label Receiver"
 $ns run
  
 # OUTPUT
-
-
-
-
-
+![IMG-20251121-WA0007](https://github.com/user-attachments/assets/90e8f661-207d-41c9-8d3e-afb5e0d4d82d)
 
 
 
